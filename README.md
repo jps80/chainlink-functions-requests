@@ -2,6 +2,8 @@
 
 Este repositorio contiene código para jugar con la funcionalidad ofrecida por Chainlink: Chainlink Functions. 
 
+https://github.com/jps80/chainlink-functions/tree/dev
+
 ## Detalle (WIP)
 
 He desplegado una serie de SC "consumidores" que permiten ejecutar "functions".
